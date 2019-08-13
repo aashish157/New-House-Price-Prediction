@@ -1,6 +1,6 @@
 # New House Price Prediction
 
-A Linear Regression ML model to predict the monetary value of a new house
+A Linear Regression ML model to predict the monetary value of a new house. Boston house price dataset was used in developing this project. Linear regression is a supervised machine learning algorithm which outputs a linear relation between a dependent and an independent variable. In this project the target attribute 'price' is the dependent variable and feature 'LSTAT' is the independent variable
 
 ## Getting Started
 
@@ -29,16 +29,16 @@ git clone https://github.com/aashish157/New-House-Price-Prediction.git
 
 ### Usage
 
-<div class="row col-md-12">
-	<img src="screenshots/s1.png" alt="s1" width="300px"/>
-	<img src="screenshots/s2.png" alt="s2" width="300px"/>
-	<img src="screenshots/s3.png" alt="s3" width="300px"/>
-</div>
+1. Open the .ipynb notebook file from cloned repo on Jupyter Notebook
+2. Run all the cells to test the project
 
+### Screenshots
 
-## Deployment
+<center>
+	<img src="screenshots/s1.png" alt="s1" width="400px"/>
+	<img src="screenshots/s2.png" alt="s2" width="400px"/>
+</center>
 
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -47,7 +47,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch 
@@ -57,7 +57,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **Aashish Raj Gupta** - [aashish157](https://github.com/aashish157)
+* **Aashish Raj Gupta** - [github](https://github.com/aashish157) - [linkedin](https://www.linkedin.com/in/aashish157)
 
 
 
