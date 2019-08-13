@@ -21,7 +21,7 @@ sudo apt install jupyter
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repository
 ```
 git clone https://github.com/aashish157/New-House-Price-Prediction.git
 ```
@@ -43,8 +43,8 @@ git clone https://github.com/aashish157/New-House-Price-Prediction.git
 
 ## Built With
 
-* [Jupyter Notebook](https://jupyter.org/) - Python IDE
-* [Python 3.6.8](https://www.python.org/) - Programming language used
+* `[Jupyter Notebook]`(https://jupyter.org/) - Python IDE
+* `[Python 3.6.8]`(https://www.python.org/) - Programming language used
 
 ## Contributing
 
