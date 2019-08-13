@@ -30,10 +30,9 @@ git clone https://github.com/aashish157/New-House-Price-Prediction.git
 ### Usage
 
 <div class="row col-md-12">
-	<img src="screenshots/ss1.jpeg" alt="Login Activity" width="200px" />
-	<img src="screenshots/ss2.jpeg" alt="Sign Up Activity" width="200px" />
-	<img src="screenshots/ss3.jpeg" alt="Dashboard" width="200px" />
-	<img src="screenshots/ss4.jpeg" alt="Add Task Activity" width="200px" />
+	<img src="screenshots/s1.png" alt="s1" width="200px" />
+	<img src="screenshots/s2.png" alt="s2" width="200px" />
+	<img src="screenshots/s3.png" alt="s3" width="200px" />
 </div>
 
 
