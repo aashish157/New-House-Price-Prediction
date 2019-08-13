@@ -34,10 +34,10 @@ git clone https://github.com/aashish157/New-House-Price-Prediction.git
 
 ### Screenshots
 
-<center>
+<div class="col-md-12 row">
 	<img src="screenshots/s4.png" alt="s4" width="350px"/>
 	<img src="screenshots/s2.png" alt="s2" width="350px"/>
-</center>
+</div>
 
 
 ## Built With
