@@ -35,8 +35,8 @@ git clone https://github.com/aashish157/New-House-Price-Prediction.git
 ### Screenshots
 
 <center>
-	<img src="screenshots/s1.png" alt="s1" width="400px"/>
-	<img src="screenshots/s2.png" alt="s2" width="400px"/>
+	<img src="screenshots/s4.png" alt="s4" width="350px"/>
+	<img src="screenshots/s2.png" alt="s2" width="350px"/>
 </center>
 
 
