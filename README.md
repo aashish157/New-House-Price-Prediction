@@ -1,6 +1,6 @@
 # New House Price Prediction
 
-A Linear Regression ML model to predict the monetary value of a new house. Boston house price dataset was used in developing this project. Linear regression is a supervised machine learning algorithm which outputs a linear relation between a dependent and an independent variable. In this project the target attribute 'price' is the dependent variable and feature 'LSTAT' is the independent variable
+A `Linear Regression` ML model to predict the monetary value of a new house. Boston house price dataset was used in developing this project. Linear regression is a supervised machine learning algorithm which outputs a linear relation between a dependent and an independent variable. In this project the target attribute 'price' is the dependent variable and feature 'LSTAT' is the independent variable
 
 ## Getting Started
 
@@ -43,8 +43,8 @@ git clone https://github.com/aashish157/New-House-Price-Prediction.git
 
 ## Built With
 
-* `[Jupyter Notebook]`(https://jupyter.org/) - Python IDE
-* `[Python 3.6.8]`(https://www.python.org/) - Programming language used
+* `[Jupyter Notebook]` (https://jupyter.org/) - Python IDE
+* `[Python 3.6.8]` (https://www.python.org/) - Programming language used
 
 ## Contributing
 
